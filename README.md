@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eren Demirkan Demir</h1>
 <h3 align="center">A passionate data scientist and artificial intelligence enthusiast from Turkey</h3>
 
- <h3> I'm a forward-thinking senior Software Engineering student, driven by a passion for technology and a
+ <h2> I'm a forward-thinking senior Software Engineering student, driven by a passion for technology and a
  global mindset. My academic journey led me to Poland for one semester through Erasmus+, an experience
- that broadened my perspective and added an international flair to my education. I am trying to improve
- myself on various skills with great motivation by focusing on Data Science and Data Engineering. Trying to
- master Python, Machine Learning, Big Data Technologies, Databases and Visualization. I am equipped to
- harness the power of data for informed decision making. </h3>
+ that broadened my perspective and added an international flair to my education. I am trying to improve myself on various skills with great motivation by focusing on Data Science and Data Engineering. Trying to master Python, Machine Learning, Big Data Technologies, Databases and Visualization. I am equipped to harness the power of data for informed decision making. </h2>
 
 - 🌱 I’m currently learning **Data Science**
 

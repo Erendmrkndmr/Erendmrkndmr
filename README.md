@@ -24,4 +24,3 @@ I'm a forward-thinking senior Software Engineering student, driven by a passion 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Erendmrkndmr&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

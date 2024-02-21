@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a senior software engineering student<br>🌱 I’m currently learning about **data Science and artificial intelligence**<br>📫 How to reach me **erendemirkandemir@hotmail.com**
+I'm a forward-thinking senior Software Engineering student, driven by a passion for technology and a global mindset. My academic journey led me to Poland for one semester through Erasmus+, an experience that broadened my perspective and added an international flair to my education. I am trying to improve myself on various skills with great motivation by focusing on Data Science and Data Engineering. Trying to master Python, Machine Learning, Big Data Technologies, Databases and Visualization. I am equipped to harness the power of data for informed decision making.<br>🌱 I’m currently learning about **data Science and artificial intelligence**<br>📫 How to reach me **erendemirkandemir@hotmail.com**
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ I'm a senior software engineering student<br>🌱 I’m currently learning about
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Erendmrkndmr&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erendmrkndmr&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Erendmrkndmr&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)

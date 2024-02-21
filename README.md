@@ -5,7 +5,7 @@ I'm a forward-thinking senior Software Engineering student, driven by a passion 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eren-demirkan-demir) 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/eren-demirkan-demir) 
 
 # 💻 Tech Stack:
 <p align="center">

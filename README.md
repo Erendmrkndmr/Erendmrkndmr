@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren Demirkan Demir</h1>
-<h3 align="center">A passionate data science and Artificial Intelligence from Türkiye</h3>
+<h3 align="center">A passionate data scientist and artificial intelligence enthusiast from Turkey</h3>
 
 - 🌱 I’m currently learning **Data Science**
 

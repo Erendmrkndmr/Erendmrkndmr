@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a forward-thinking Software Engineer, driven by a passion for technology and a global mindset. My academic journey led me to Poland for one semester through Erasmus+, an experience that broadened my perspective and added an international flair to my education. I am trying to improve myself on various skills with great motivation by focusing on Data Science and Data Engineering. Trying to master Python, Machine Learning, Big Data Technologies, Databases and Visualization. I am equipped to harness the power of data for informed decision making.
 <br>
 <br>🌱 I’m currently learning about **Data Science and Artificial Intelligence**<br>📫 How to reach me **erendemirkandemir@hotmail.com**

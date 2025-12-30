@@ -1,7 +1,15 @@
-# About Me:
-I'm a forward-thinking Software Engineer, driven by a passion for technology and a global mindset. My academic journey led me to Poland for one semester through Erasmus+, an experience that broadened my perspective and added an international flair to my education. I am trying to improve myself on various skills with great motivation by focusing on Data Science and Data Engineering. Trying to master Python, Machine Learning, Big Data Technologies, Databases and Visualization. I am equipped to harness the power of data for informed decision making.
-<br>
-<br>🌱 I’m currently learning about **Data Science and Artificial Intelligence**<br>📫 How to reach me **erendemirkandemir@hotmail.com**
+## About Me
+
+I am a Software Engineer working on AI-based applications and cloud systems. I mainly work on building LLM-powered features such as Retrieval-Augmented Generation (RAG) pipelines and simple agent-style workflows, along with the backend components that support them.
+
+My work includes building backend services with FastAPI, containerizing applications with Docker, and deploying systems on AWS using Infrastructure as Code with Terraform. I focus on writing clear, maintainable code and building systems that work reliably in real project environments.
+
+I have a software engineering background and international academic experience through the Erasmus+ program. I continue to improve my skills in machine learning and generative AI by working on real projects and experimenting with new ideas.
+
+I enjoy solving practical problems where software engineering and artificial intelligence come together.
+
+🌱 Focus areas: **Generative AI, LLM-based Applications, and Backend Development**  
+📫 Contact: **erendemirkandemir@hotmail.com**
 
 
 ## 🌐 Socials:

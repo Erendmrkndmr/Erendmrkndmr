@@ -8,7 +8,7 @@ I have a software engineering background and international academic experience t
 
 I enjoy solving practical problems where software engineering and artificial intelligence come together.
 
-🌱 Focus areas: **Generative AI, LLM-based Applications, and Backend Development**  
+🌱 Focus areas: **Generative AI, LLM-based Applications and New Technologies.
 📫 Contact: **erendemirkandemir@hotmail.com**
 
 

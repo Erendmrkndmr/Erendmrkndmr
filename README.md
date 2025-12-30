@@ -4,11 +4,11 @@ I am a Software Engineer working on AI-based applications and cloud systems. I m
 
 My work includes building backend services with FastAPI, containerizing applications with Docker, and deploying systems on AWS using Infrastructure as Code with Terraform. I focus on writing clear, maintainable code and building systems that work reliably in real project environments.
 
-I have a software engineering background and international academic experience through the Erasmus+ program. I continue to improve my skills in machine learning and generative AI by working on real projects and experimenting with new ideas.
+I have a software engineering background and international academic experience through the Erasmus+ program. I also hold **7 AWS certifications**, which support my practical understanding of cloud architecture and AI-related workloads on AWS.
 
-I enjoy solving practical problems where software engineering and artificial intelligence come together.
+I continue to improve my skills in machine learning and generative AI by working on real projects and experimenting with new ideas. I enjoy solving practical problems where software engineering and artificial intelligence come together.
 
-🌱 Focus areas: **Generative AI, LLM-based Applications and New Technologies.
+🌱 Focus areas: **Generative AI, LLM-based Applications, and New Technologies**  
 📫 Contact: **erendemirkandemir@hotmail.com**
 
 
